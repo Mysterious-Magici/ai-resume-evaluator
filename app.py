@@ -79,7 +79,7 @@ with tab1:
 
     if st.button("Evaluate Match", type="primary", use_container_width=True):
         if not job_desc_input or not uploaded_pdf:
-            st.warning("⚠️ Please provide both a Job Description and a Resume to proceed.")
+            st.warning(" Please provide both a Job Description and a Resume to proceed.")
         else:
             with st.spinner("AI is analyzing your profile..."):
                 st.session_state.resume_text = extract_text_from_pdf(uploaded_pdf)
@@ -141,7 +141,7 @@ with tab2:
     st.markdown("### Interact with your AI Career Coach")
     
     if not st.session_state.resume_text or not st.session_state.job_description:
-        st.info("👋 Welcome! Please analyze your resume in the first tab to unlock your personalized AI Coach.")
+        st.info(" Welcome! Please analyze your resume in the first tab to unlock your personalized AI Coach.")
     else:
         st.markdown("Your AI Coach knows your resume and the job description. Ask for advice, interview tips, or a cover letter!")
         
