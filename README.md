@@ -6,8 +6,8 @@ An intelligent, ATS-style evaluation tool powered by generative AI. This applica
 * Deployed link: https://resume-match-checker.streamlit.app/
 
 ## Application Previews
-* **Resume Match Analyzer Interface**: [View Screenshot 2026-10-11 115401.png](https://github.com/Mysterious-Magici/ai-resume-evaluator/blob/main/Resume%20Match%20Analyzer%20Interface.png)
-* **AI Career Coach Interface**: [View Screenshot 2026-10-11 115428.png](https://github.com/Mysterious-Magici/ai-resume-evaluator/blob/main/AI%20Career%20Coach%20Interface.png)
+* **Resume Match Analyzer Interface**: ![](https://github.com/Mysterious-Magici/ai-resume-evaluator/blob/main/Resume%20Match%20Analyzer%20Interface.png)
+* **AI Career Coach Interface**: ![](https://github.com/Mysterious-Magici/ai-resume-evaluator/blob/main/AI%20Career%20Coach%20Interface.png)
 
 ## Core Features
 * Features a Resume Match Analyzer where users can input job requirements and upload a PDF format resume.
